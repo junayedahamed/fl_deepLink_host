@@ -1,0 +1,12 @@
+{
+  "name": "juna",
+  "module": "index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun run index.js"
+  },
+  "dependencies": {
+    "express": "4"
+  }
+}
